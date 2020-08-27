@@ -8,3 +8,11 @@
 First download the project, Open or import in Intellij IDEA then wait downloading for libraries.
 
 ![login](img/loginform.PNG)
+
+<h3>If you're looking for a dependencies</h3>
+
+You can check at my folder in dependency then you can open those notepad and copy paste in Maven.
+
+• AnimateFX
+
+• Jfoenix
